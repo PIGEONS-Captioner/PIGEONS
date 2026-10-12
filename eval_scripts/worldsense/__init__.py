@@ -1,0 +1,1 @@
+"""WorldSense evaluation resources."""

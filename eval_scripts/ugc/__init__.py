@@ -1,0 +1,1 @@
+"""UGC-VideoCap evaluation resources."""

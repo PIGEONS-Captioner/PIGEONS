@@ -1,0 +1,21 @@
+name: pigeons
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - ffmpeg
+  - pip:
+      # Direct inference dependencies; pip resolves their transitive dependencies.
+      - ms-swift==4.2.2
+      - vllm==0.19.1
+      - transformers==5.8.1
+      - torch==2.10.0
+      - torchaudio==2.10.0
+      - torchvision==0.25.0
+      - qwen-omni-utils==0.0.9
+      - numpy==2.2.6
+      - opencv-python-headless==4.13.0.92
+      - librosa==0.11.0
+      - soundfile==0.13.1
+      - av==17.0.1
