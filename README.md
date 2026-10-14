@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://pigeons-captioner.github.io/"><img src="https://img.shields.io/badge/Project%20webpage-6487B8?style=for-the-badge"></a>
   <a href="https://huggingface.co/PIGEONS-Captioner/PIGEONS"><img src="https://img.shields.io/badge/Model-F58C29?style=for-the-badge"></a>
-  <a href="https://arxiv.org/abs/2610.xxxxx"><img src="https://img.shields.io/badge/arXiv-E85454?style=for-the-badge"></a>
+  <a href="https://arxiv.org/abs/2610.16066"><img src="https://img.shields.io/badge/arXiv-E85454?style=for-the-badge"></a>
 </p>
 
 ---
