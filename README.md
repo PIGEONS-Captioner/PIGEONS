@@ -171,5 +171,10 @@ Results are saved as `metrics.json`, `run.json`, and judgement JSONL files. Reru
 If you find our work helpful for your research, please consider giving a star ⭐ and citing our paper. We appreciate your support!
 
 ```bibtex
-TODO
+@article{chen2026pigeons,
+  title={PIGEONS: Incremental Long-Video Captioning with Persistent Identity Gallery and Evolving Overarching Narrative Summary},
+  author={Chen, Xinlong and Lin, Weihong and Zhang, Yuanxing and Liu, Xinyu and Ding, Yue and Li, Bozhou and Zeng, Bohan and Shi, Yang and Liu, Qiang and Wan, Pengfei and others},
+  journal={arXiv preprint arXiv:2610.16066},
+  year={2026}
+}
 ```
